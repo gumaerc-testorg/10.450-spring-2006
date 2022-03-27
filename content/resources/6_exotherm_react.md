@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5bb90adb-34cb-f6e3-b8f6-96370879bc41
 resourcetype: Document
 title: 6_exotherm_react.pdf
 uid: f5030af4-1384-d9de-143d-e5913022fad5

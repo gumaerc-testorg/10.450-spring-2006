@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5bb90adb-34cb-f6e3-b8f6-96370879bc41
 resourcetype: Document
 title: 4_tanksinseries.pdf
 uid: 2bbe9f70-037e-6584-b54d-043a3c843300

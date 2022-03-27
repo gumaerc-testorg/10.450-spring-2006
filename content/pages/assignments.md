@@ -64,7 +64,7 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset_4))
 Problem Set 5 ([PDF]({{< baseurl >}}/resources/pset_5))
 {{< tdclose >}}
 {{< tdopen >}}
-template\_ps5.m ([M](/courses/chemical-engineering/10-450-process-dynamics-operations-and-control-spring-2006/assignments/template_ps5.m))
+template\_ps5.m ([M]({{< baseurl >}}/resources/template_ps5))
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5bb90adb-34cb-f6e3-b8f6-96370879bc41
 resourcetype: Document
 title: 5_heated_tank.pdf
 uid: dc573f23-401e-eb58-2281-8fbaa177eaac

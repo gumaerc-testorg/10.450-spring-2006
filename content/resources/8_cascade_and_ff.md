@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5bb90adb-34cb-f6e3-b8f6-96370879bc41
 resourcetype: Document
 title: 8_cascade_and_ff.pdf
 uid: 3687206b-a105-1533-fb5d-29a63df08899

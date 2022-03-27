@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5bb90adb-34cb-f6e3-b8f6-96370879bc41
 resourcetype: Document
 title: 5_operability.pdf
 uid: e5d095af-4b86-97f4-0b80-009eeceaa7e7

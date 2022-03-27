@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1751b5f4-022a-f47c-1cbb-3f13156de20a
 resourcetype: Other
 title: exothrmc_rctr_ps8.xls
 uid: 747488e5-d64e-bc43-312a-1642eb741d5b
