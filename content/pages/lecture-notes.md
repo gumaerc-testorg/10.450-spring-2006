@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section contains information no the topics covered and the associated
+  lecture notes.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5bb90adb-34cb-f6e3-b8f6-96370879bc41
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -28,7 +37,7 @@ LECTURE NOTES
 Introduction to Processes and Systems
 {{< tdclose >}}
 {{< tdopen >}}
-Lesson 1 ([PDF]({{< baseurl >}}/resources/1_systems))
+Lesson 1 ({{% resource_link 87bcc0d1-b481-eeca-283f-3c385325d755 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +49,7 @@ Lesson 1 ([PDF]({{< baseurl >}}/resources/1_systems))
 Math Review
 {{< tdclose >}}
 {{< tdopen >}}
-Lesson 2 ([PDF]({{< baseurl >}}/resources/2_math))
+Lesson 2 ({{% resource_link 1a418cec-8186-1b3a-0c0d-69c71b66b07f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +61,7 @@ Lesson 2 ([PDF]({{< baseurl >}}/resources/2_math))
 The Blending Tank
 {{< tdclose >}}
 {{< tdopen >}}
-Lesson 3 ([PDF]({{< baseurl >}}/resources/3_blend_tank))
+Lesson 3 ({{% resource_link 28cd628b-5903-b0bb-abae-f96f0d82f1d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +73,7 @@ Lesson 3 ([PDF]({{< baseurl >}}/resources/3_blend_tank))
 Two Tanks in Series
 {{< tdclose >}}
 {{< tdopen >}}
-Lesson 4 ([PDF]({{< baseurl >}}/resources/4_tanksinseries))
+Lesson 4 ({{% resource_link 2bbe9f70-037e-6584-b54d-043a3c843300 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +85,7 @@ Lesson 4 ([PDF]({{< baseurl >}}/resources/4_tanksinseries))
 Operability of Processes
 {{< tdclose >}}
 {{< tdopen >}}
-Lesson 5 ([PDF]({{< baseurl >}}/resources/5_operability))
+Lesson 5 ({{% resource_link e5d095af-4b86-97f4-0b80-009eeceaa7e7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +103,7 @@ The Heated Tank
 
 {{< tdclose >}}
 {{< tdopen >}}
-Lesson 5 ([PDF]({{< baseurl >}}/resources/5_heated_tank))  
+Lesson 5 ({{% resource_link dc573f23-401e-eb58-2281-8fbaa177eaac "PDF" %}})  
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +115,7 @@ Lesson 5 ([PDF]({{< baseurl >}}/resources/5_heated_tank))  
 The Exothermic Reactor
 {{< tdclose >}}
 {{< tdopen >}}
-Lesson 6 ([PDF]({{< baseurl >}}/resources/6_exotherm_react))
+Lesson 6 ({{% resource_link f5030af4-1384-d9de-143d-e5913022fad5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +127,7 @@ Lesson 6 ([PDF]({{< baseurl >}}/resources/6_exotherm_react))
 Higher-order Overdamped Systems
 {{< tdclose >}}
 {{< tdopen >}}
-Lesson 7 ([PDF]({{< baseurl >}}/resources/7_high_order))
+Lesson 7 ({{% resource_link 9323048e-3f2f-fc52-e507-08760833e598 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +139,7 @@ Lesson 7 ([PDF]({{< baseurl >}}/resources/7_high_order))
 Cascade and Feed Forward Control Schemes
 {{< tdclose >}}
 {{< tdopen >}}
-Lesson 8 ([PDF]({{< baseurl >}}/resources/8_cascade_and_ff))
+Lesson 8 ({{% resource_link 3687206b-a105-1533-fb5d-29a63df08899 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

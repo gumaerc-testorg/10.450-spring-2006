@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: Thisw section contains problems to test students understanding of course
+  material.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 1751b5f4-022a-f47c-1cbb-3f13156de20a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Problem Sets
@@ -22,7 +31,7 @@ RELATED FILES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset_1))
+Problem Set 1 ({{% resource_link 830af4e9-ca0d-31b1-72d5-9f6a7f1fd258 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -31,7 +40,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset_1))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset_2))
+Problem Set 2 ({{% resource_link 8df1594e-043c-496b-ad91-3c6fe822f60c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -40,7 +49,7 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset_2))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset_3))
+Problem Set 3 ({{% resource_link 4e36ba4a-42c5-997e-c4f5-632a0342cf2d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -49,7 +58,7 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset_3))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset_4))
+Problem Set 4 ({{% resource_link 8cf45122-5795-82ed-8afc-7680551b51f3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -58,16 +67,16 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset_4))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/pset_5))
+Problem Set 5 ({{% resource_link 7a1737b1-add4-0606-38f9-d553541bb6a4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-template\_ps5.m ([M](/courses/chemical-engineering/10-450-process-dynamics-operations-and-control-spring-2006/assignments/template_ps5.m))
+template\_ps5.m ({{% resource_link 2acc37f1-79fe-05e1-f097-05253666f90a "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/pset_6))
+Problem Set 6 ({{% resource_link 3963eefc-1bcd-3cee-cf06-feb90bf697d3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -76,7 +85,7 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/pset_6))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 7 ([PDF]({{< baseurl >}}/resources/pset_7))
+Problem Set 7 ({{% resource_link b854acb8-6038-8363-d15a-b3027778d2c2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -85,16 +94,16 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/pset_7))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 8 ([PDF]({{< baseurl >}}/resources/pset_8))
+Problem Set 8 ({{% resource_link 1ffd3446-7b66-1ac5-3491-9b7faf13fe3b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-exothrmc\_rctr\_ps8.xls ([XLS]({{< baseurl >}}/resources/exothrmc_rctr_ps8))
+exothrmc\_rctr\_ps8.xls ({{% resource_link 747488e5-d64e-bc43-312a-1642eb741d5b "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 9 ([PDF]({{< baseurl >}}/resources/pset_9))
+Problem Set 9 ({{% resource_link 1fba9049-ee99-ef41-c876-13261c507628 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -103,7 +112,7 @@ Problem Set 9 ([PDF]({{< baseurl >}}/resources/pset_9))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 10 ([PDF]({{< baseurl >}}/resources/pset_10))
+Problem Set 10 ({{% resource_link 5fe9b750-2e25-5eeb-c4c5-daf983ea3625 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -112,7 +121,7 @@ Problem Set 10 ([PDF]({{< baseurl >}}/resources/pset_10))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 11 ([PDF]({{< baseurl >}}/resources/pset_11))
+Problem Set 11 ({{% resource_link 7178c825-49ba-b5d2-54c4-e2795d2c34bc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
