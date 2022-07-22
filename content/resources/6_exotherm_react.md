@@ -7,6 +7,7 @@ file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/f5030a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This section contains information on context and direction, exothermic chemical reaction in a stirred tank reactor, dynamic model of the reactor, encountring nonlinear equations.
-

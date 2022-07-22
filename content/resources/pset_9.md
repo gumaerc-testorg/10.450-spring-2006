@@ -11,6 +11,7 @@ file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/1fba90
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 This problem set reviews the old procedure of estimating closed-loop stability by the Bode method, as well as tuning by gain and phase margins. The pretext is a change of controlled variable for the stirred reactor of Lesson 6; you will use the linearized model of Lesson 6 to do the engineering for this change. It should provide a striking illustration of the effect of nonlinearity on our linear models. Again, use the spreadsheet "exothermic reactor for pset8.xls" to calculate steady-state conditions.
-

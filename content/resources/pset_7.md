@@ -9,6 +9,7 @@ file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/b854ac
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 This problem set allows us to update the simulator with a full PID controller algorithm. We then calculate the performance of a first order system under PI control. We can compare our results to examples in the Lesson notes, which were derived from analytic solutions to the system model. Your task is to represent the sketchily-described deviation-variable system in the physical variables used by the simulator.
-

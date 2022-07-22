@@ -5,6 +5,7 @@ file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/747488
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting file for Problem Set 8.
-

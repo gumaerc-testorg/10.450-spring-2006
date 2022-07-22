@@ -8,6 +8,7 @@ file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/5fe9b7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This problem set attempts to create a realistic context for obtaining a process model. It then explores how you might use the model. All the operations themselves are straightforward; it?s the sense of adapting the formulas to your needs.
-

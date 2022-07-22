@@ -7,6 +7,7 @@ file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/2bbe9f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information on context and direction, math model of continuous blending tanks, solving the coupled equations - a second-order system, introducing the Laplace transform.
-
