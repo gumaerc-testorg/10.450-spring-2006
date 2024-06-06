@@ -4,6 +4,7 @@ description: This section contains information on context and direction, a proce
   with identifiable intermediate variable, response to disturbances, cascade control
   scheme.
 file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/3687206ba1051533fb5d29a63df08899_8_cascade_and_ff.pdf
+file_size: 324337
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

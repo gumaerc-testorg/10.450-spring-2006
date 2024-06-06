@@ -11,6 +11,7 @@ description: This problem set concerns representing nonlinear processes with lin
   "exothermic reactor for pset8.xls" to calculate steady-state conditions. Use your
   Matlab simulator code to solve the nonlinear problem.
 file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/1ffd34467b661ac534919b7faf13fe3b_pset_8.pdf
+file_size: 14789
 file_type: application/pdf
 learning_resource_types:
 - Assignments
