@@ -3,6 +3,7 @@ content_type: resource
 description: This section contains information on context and direction, a heated
   tank, stability of the heated tank, numerical solution of ODEs.
 file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/dc573f23401eeb5822818fbaa177eaac_5_heated_tank.pdf
+file_size: 570433
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
