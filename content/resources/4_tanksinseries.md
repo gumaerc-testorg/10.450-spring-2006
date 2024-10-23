@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information on context and direction, math model
   of continuous blending tanks, solving the coupled equations - a second-order system,
   introducing the Laplace transform.
-file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/2bbe9f70037e6584b54d043a3c843300_4_tanksinseries.pdf
+file: /ol-ocw-studio-app/courses/10-450-process-dynamics-operations-and-control-spring-2006/2bbe9f70037e6584b54d043a3c843300_4_tanksinseries.pdf
 file_size: 582478
 file_type: application/pdf
 learning_resource_types:
