@@ -3,7 +3,7 @@ content_type: resource
 description: This section contains information on context and direction, planning
   a control scheme, choosing equipment, process behavior under automatic control,
   defining 'system', systems within systems.
-file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/87bcc0d1b481eeca283f3c385325d755_1_systems.pdf
+file: /ol-ocw-studio-app/courses/10-450-process-dynamics-operations-and-control-spring-2006/87bcc0d1b481eeca283f3c385325d755_1_systems.pdf
 file_size: 157156
 file_type: application/pdf
 learning_resource_types:
