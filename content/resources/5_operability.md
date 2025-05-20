@@ -3,7 +3,7 @@ content_type: resource
 description: This section contains information on context and direction, remember
   the stability criterion for linear systems, the special case of zero poles, the
   integrator and the non-self-regulating process.
-file: /ol-ocw-studio-app/courses/10-450-process-dynamics-operations-and-control-spring-2006/e5d095af4b8697f40b80009eeceaa7e7_5_operability.pdf
+file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/e5d095af4b8697f40b80009eeceaa7e7_5_operability.pdf
 file_size: 266221
 file_type: application/pdf
 learning_resource_types:
