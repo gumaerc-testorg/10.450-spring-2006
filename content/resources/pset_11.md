@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on Laplace Transform.
-file: /ol-ocw-studio-app/courses/10-450-process-dynamics-operations-and-control-spring-2006/7178c82549bab5d254c4e2795d2c34bc_pset_11.pdf
+file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/7178c82549bab5d254c4e2795d2c34bc_pset_11.pdf
 file_size: 28318
 file_type: application/pdf
 learning_resource_types:
