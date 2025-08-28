@@ -7,7 +7,7 @@ description: This problem set reviews the old procedure of estimating closed-loo
   provide a striking illustration of the effect of nonlinearity on our linear models.
   Again, use the spreadsheet "exothermic reactor for pset8.xls" to calculate steady-state
   conditions.
-file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/1fba9049ee99ef41c87613261c507628_pset_9.pdf
+file: /ol-ocw-studio-app/courses/10-450-process-dynamics-operations-and-control-spring-2006/1fba9049ee99ef41c87613261c507628_pset_9.pdf
 file_size: 14443
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems containing questions on the course.
-file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/830af4e9ca0d31b172d59f6a7f1fd258_pset_1.pdf
+file: /ol-ocw-studio-app/courses/10-450-process-dynamics-operations-and-control-spring-2006/830af4e9ca0d31b172d59f6a7f1fd258_pset_1.pdf
 file_size: 72761
 file_type: application/pdf
 learning_resource_types:
