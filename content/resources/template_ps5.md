@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a supporting file.
-file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/2acc37f179fe05e1f09705253666f90a_template_ps5.m
+file: /ol-ocw-studio-app/courses/10-450-process-dynamics-operations-and-control-spring-2006/2acc37f179fe05e1f09705253666f90a_template_ps5.m
 file_size: 15789
 file_type: text/plain
 learning_resource_types:

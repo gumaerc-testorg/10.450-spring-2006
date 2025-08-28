@@ -5,7 +5,7 @@ description: This problem set allows us to update the simulator with a full PID 
   We can compare our results to examples in the Lesson notes, which were derived from
   analytic solutions to the system model. Your task is to represent the sketchily-described
   deviation-variable system in the physical variables used by the simulator.
-file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/b854acb860388363d15ab3027778d2c2_pset_7.pdf
+file: /ol-ocw-studio-app/courses/10-450-process-dynamics-operations-and-control-spring-2006/b854acb860388363d15ab3027778d2c2_pset_7.pdf
 file_size: 25306
 file_type: application/pdf
 learning_resource_types:
